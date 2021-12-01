@@ -1,2 +1,3 @@
 hi im sainath mitalakar
 git remote add shubham <cr link >
+git pull shubham master (insted of origin we use shubham)
