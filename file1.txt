@@ -1,3 +1,9 @@
 hi im sainath mitalakar
 git remote add shubham <cr link >
 git pull shubham master (insted of origin we use shubham)
+
+git branch -a (for list branches in repository)
+git branch master
+git branch main
+git checkout main or master
+
