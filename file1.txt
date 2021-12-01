@@ -6,4 +6,4 @@ git branch -a (for list branches in repository)
 git branch master
 git branch main
 git checkout main or master
-
+......
